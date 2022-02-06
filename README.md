@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewdodold
 - 👀 I’m interested in Physics, Python, Mathematics, Astronomy and Mobile App Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C, C++, C#, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phyicsmetu22@gmail.com, haybekbatuhan@gmail.com
 
