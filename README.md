@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ewdodold
-- 👀 I’m interested in Physics, Python, Mathematics, Astronomy and Mobile App Development
+- 👀 I’m interested in Physics, Python, Mathematics, Astronomy
 - 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haybekbatuhan@gmail.com
