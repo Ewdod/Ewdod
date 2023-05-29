@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ewdodold
-- 👀 I’m interested in Physics, Python, Mathematics, Astronomy
+- 👋 Hi, I’m @haybek and ewdod is my nickname
+- 👀 I’m interested in C# an other programming languages
 - 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haybekbatuhan@gmail.com
