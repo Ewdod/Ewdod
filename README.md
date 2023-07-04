@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ewdod&show_icons=true&locale=en" alt="ewdod" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=ewdod&" alt="ewdod" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ewdod&" alt="ewdod" /></p>
 
 
 
