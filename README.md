@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **haybekbatuhan@gmail.com**
 
-- ⚡ Fun fact **I have ADHD (Attention Deficit Hyperactivity Disorder / DEHB Dikkat Eksikligi ve Hiperaktivite Bozuklugu)**
+- ⚡ Fun fact **I have ADHD (Attention Deficit Hyperactivity Disorder / DEHB Dikkat Eksikligi ve Hiperaktivite Bozuklugu) https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
